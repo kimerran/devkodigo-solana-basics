@@ -6,7 +6,7 @@ repository for Solana development basic tutorial videos in YouTube
 
 ## 02-network-interaction
 1. [read](./02-network-interaction/read.ts)
-2. write
+2. [write](./02-network-interaction/write.ts)
 
 ## 03-token-program
 3. create token mint
